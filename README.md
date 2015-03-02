@@ -73,8 +73,8 @@ Enterprise security: Compartment and secure something smaller
 OPSEC WORKS: Counterintelligence hasn’t changed in thousands of years
 OPSEC: THREE C’S
  * Cover
-   (Action) Normal to do what you are doing.
-   (Status) Normal to be where you are
+   - (Action) Normal to do what you are doing.
+   - (Status) Normal to be where you are
  * Concealment
    - Hide the activity	
    - Prevent anyone from knowing about it	
@@ -103,11 +103,33 @@ USING ENCRYPTION STANDS OUT!
 OPSEC is a risk management instrument that enables a manager or commander to view an operation or activity from the perspective of an adversary. It is a process of identifying, analyzing and controlling critical information.
 
 Critical Information Commandments:
-
-  1 Thou must protect the information that the adversary needs to accomplish his mission.
-  2 Thou shall not try to protect everything.
-  3 Consider who thy adversaries are and what information they require to inflict harm to you.
-  4 Thou shall consult all sources of information to determine what thine enemies know about you.
-  5 Once thou has determined what information is critical, thou shall determine if that information is associated with thine activities.
+1. Thou must protect the information that the adversary needs to accomplish his mission.
+2. Thou shall not try to protect everything.
+3. Consider who thy adversaries are and what information they require to inflict harm to you.
+4. Thou shall consult all sources of information to determine what thine enemies know about you.
+5. Once thou has determined what information is critical, thou shall determine if that information is associated with thine activities.
   
 ---
+
+### Ten Crack Commandments
+#### https://triviahappy.com/articles/read-the-source-article-that-the-notorious-big-copied-for-ten-crack-commandments
+
+1. Never let anyone know how much money you have.
+2. Never let anyone know what your next move will be.
+3. Trust no one.
+4. Never use what you sell.
+5. Never give credit.
+6. Never sell out of your home.
+7. Keep family and business separate.
+8. Never park your stash on your person.
+9. If you’re not being arrested, never be seen communicating with the police.
+10. G.C.G.C. (Great Consignment, Grave Confinement)
+
+
+
+
+
+
+
+
+
