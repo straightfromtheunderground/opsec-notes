@@ -125,6 +125,22 @@ Critical Information Commandments:
 9. If you’re not being arrested, never be seen communicating with the police.
 10. G.C.G.C. (Great Consignment, Grave Confinement)
 
+---
+
+### Moscow Rules
+#### https://en.wikipedia.org/wiki/Moscow_Rules
+
+1. Assume nothing.
+2. Never go against your gut.
+3. Everyone is potentially under opposition control.
+4. Don't look back; you are never completely alone.
+5. Go with the flow, blend in.
+6. Vary your pattern and stay within your cover.
+7. Lull them into a sense of complacency.
+8. Don't harass the opposition.
+9. Pick the time and place for action.
+10. Keep your options open.
+
 
 
 
