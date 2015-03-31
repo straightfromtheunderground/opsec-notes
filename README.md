@@ -141,7 +141,21 @@ Critical Information Commandments:
 9. Pick the time and place for action.
 10. Keep your options open.
 
+---
 
+### Always assume the worst
+#### http://dcid.me/notes/2013-jun-20
+
+ * Always assume that you are being monitored. Specially online. It could be your government, a foreign country, your ISP, or even from within your network. Someone might be watching you.
+ * Always assume that your network is compromised. Because it might really be and you don’t know yet.
+ * Always assume that all your emails are being read.
+ * Always assume that all your IM (instant messages) are being read.
+ * Always assume that any “private” content you put online is going to be public someday.
+ * Always assume that your data will be lost.
+ * Always assume that some servers or computers that you own are already compromised.
+ * Always assume that some of your employees (or co-workers) can’t be trusted. And you really don’t know which ones are.
+ * Always assume that there is someone, right now, trying to hack you. This one is really true.
+ * Always assume that there is someone, right now, that is smarter than you, trying to hack you.
 
 
 
