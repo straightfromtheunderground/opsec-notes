@@ -1,0 +1,41 @@
+# Threat Modeling Notes
+---
+
+### Threat Modeling as a Basis for Security Requirements
+#### Suvda Myagmar, Adam J. Lee, William Yurcik
+#### National Center for Supercomputing Applications (NCSA)
+
+Security is a process, not a product.
+WHAT the system is designed to protect, and from WHOM.
+A good threat model allows security designers to accurately estimate the attacker's capabilities.
+A threat model cannot be created by simply brainstorming an adversary's possible intentions.
+
+Threat modeling process consists of the following three high-level steps:
+ * characterizing the system,
+ * identifying assets and access points,
+ * identifying threats
+
+Characterizing the system involves understanding the system components and their interconnections, and creating a system model emphasizing its main characteristics. Then assets and access points of the system are identified. Identifying threats creates a threat profile of a system, describing all the potential attacks that need to be mitigated against or accepted as low risk.
+
+An application is modeled by a Data Flow Diagram, and networked system by a Network Model.
+
+When threat modeling a networked system, the first step is to identify the roles and function of each class of computers on the network. Then, the communication patterns between entities in different roles are mapped out.
+
+The best method for threat enumeration is to step through each of the system's assets, reviewing a list of attack goals for each asset.
+
+In threat modeling, a system model shows all security critical entities such as assets, access points, and communication channels.
+
+The output of threat identification process is a threat profile for a system, describing all the potential attacks, each of which needs to be mitigated or accepted.
+
+Threats must be analyzed to determine whether the system is susceptible to them. Attack trees is one way to accomplish this.
+
+The analyst must brainstorm to figure out all avenues the attacker may pursue in order to achieve this goal.
+
+Attack trees cannot replace threat modeling process.
+
+Security requirements are often specified in terms of what MUST NOT be allowed to happen.
+
+Securing systems is about tredeoffs: often finding an ideal ballance is quite a challenge.
+
+Security measures should be employed only up to the point where the cost to implement them does not exceed the expected risk. Failure to make this judgement correctly can easily lead to a situation where no risk is judged acceptable, and thus no acceptable system can be designed.
+

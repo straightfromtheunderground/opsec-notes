@@ -1,0 +1,56 @@
+
+
+Devices are unique (IMSI, IMEI, SIM cards, ...)
+The location is known
+ * Base stations triangulation
+ * fake BTS
+ * Android Wifi searching packets
+
+
+Burner phone is not a solution (see Hezbollah vs. CIA in Lebanon).
+Beware of anomalies
+ * Cellphones turned on in the same time.
+ * Cellphone "usually" turned off.
+
+
+
+
+
+
+
+
+
+### Reading
+
+---
+
+### How To Make A Secret Phone Call
+#### http://www.fastcompany.com/3044637/secret-phone-network
+
+1. Analyze your daily movements, paying special attention to anchor points (basis of operation like home or work) and dormant periods in schedules (8-12 p.m. or when cell phones aren't changing locations);
+
+2. Leave your daily cell phone behind during dormant periods and purchase a prepaid no-contract cell phone ("burner phone");
+
+3. After storing burner phone in a Faraday bag, activate it using a clean computer connected to a public Wi-Fi network;
+
+4. Encrypt the cell phone number using a onetime pad (OTP) system and rename an image file with the encrypted code. Using Tor to hide your web traffic, post the image to an agreed upon anonymous Twitter account, which signals a communications request to your partner;
+
+5. Leave cell phone behind, avoid anchor points, and receive phone call from partner on burner phone at 9:30 p.m.­ -- or another pre-arranged "dormant" time­ -- on the following day;
+
+6. Wipe down and destroy handset.
+
+---
+
+### Unique in the Crowd: The privacy bounds of human mobility
+#### Yves-Alexandre de Montjoye1, Cesar A. Hidalgo, Michel Verleysen & Vincent D. Blondel
+
+* Four spatio-temporal points are enough to uniquely identify 95% off all indifiduals.
+* 94% of individuals move within an average radius of less than 100km.
+* little outside information is needed to reidentify (an individual)
+
+---
+
+The Hezbollah Connection
+http://www.nytimes.com/2015/02/15/magazine/the-hezbollah-connection.html
+
+---
